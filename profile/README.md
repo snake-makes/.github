@@ -1,12 +1,12 @@
-## Hi there 👋
+## wassup. 👋
 
-<!--
+we're **"snake makes"**. an org where all our projects get created and constantly reimagined.
+our organization community consists of mostly pythoneers and frontend-developers.
 
-**Here are some ideas to get you started:**
+any projects that are visible to guests are open-sourced and free for non-commercial use.
+if you decide to use them, please remember to credit the organization and the OP.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+when the community of snake-makes grows, we will publish the site and docs to our open-source projects.
+
+sending rays of love! 💚
+
