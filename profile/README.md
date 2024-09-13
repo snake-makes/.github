@@ -1,6 +1,6 @@
 ## wassup. 👋
 
-we're **"snake makes"**. an org where all our projects get created and constantly reimagined.
+we're **"snake makes"**. an org where all our projects get created and constantly reimagined by each other.
 our organization community consists of mostly pythoneers and frontend-developers.
 
 any projects that are visible to guests are open-sourced and free for non-commercial use.
